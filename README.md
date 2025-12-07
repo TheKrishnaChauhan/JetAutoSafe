@@ -11,6 +11,3 @@ JetSafe is a WordPress safelink converter tool specifically designed to integrat
 - **Counter View & Click**: Tracks safelink clicks and views for better analytics.
 - **Anti-Adblock**: Helps bypass ad blockers to maximize ad revenue.
 
-## Credits
-
-- **Original Author**: [Ahmed Fraz](https://github.com/discuty)
